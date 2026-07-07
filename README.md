@@ -8,8 +8,9 @@ These resources are designed for ecommerce teams, creators, and developers who u
 
 - [AI Product Photography Product Truth Scorecard](./ai-product-photography-product-truth-scorecard.md)
 - [AI Image Prompt Framework Evidence Pack](./ai-image-prompt-framework-evidence-pack.md)
-- [Ecommerce AI Image Prompt Pack](https://visualskillkit.com/ai-image-prompt-examples)
-- [AI Product Image Generator Decision Guide](https://visualskillkit.com/ai-product-image-generator-workflow)
+- [Ecommerce AI Image Prompt Pack](./ecommerce-ai-image-prompt-pack.md)
+- [AI Product Image Generator Decision Guide](./ai-product-image-generator-decision-guide.md)
+- [AI Product Photography Benchmark Template](./ai-product-photography-benchmark-template.md)
 
 ## Core Rule
 
@@ -23,6 +24,7 @@ AI can help with backgrounds, surfaces, crops, lighting, campaign concepts, and 
 - Checking whether an AI product image changed labels, logos, materials, scale, or claims.
 - Debugging image prompts that create attractive images but miss the actual job.
 - Creating a shared review protocol for designers, sellers, marketers, and developers.
+- Running small AI product photography benchmarks before comparing tools or publishing generated product images at scale.
 
 ## What This Is Not
 
@@ -35,10 +37,14 @@ It does not claim that one AI image generator is better than another. It is a wo
 - https://visualskillkit.com/ai-product-photography
 - https://visualskillkit.com/ai-image-prompt-examples
 - https://visualskillkit.com/ai-product-image-generator-workflow
+- https://visualskillkit.com/resources
+- https://visualskillkit.com/how-it-works
+- https://visualskillkit.com/ai-product-photography-benchmark
 - https://visualskillkit.com/product-truth-scorecard
 
 ## How These Assets Fit Together
 
 1. Start with the Ecommerce AI Image Prompt Pack when the team needs copy-ready prompts for product photos, backgrounds, ad variants, marketplace images, cutouts, or repair.
 2. Use the AI Product Image Generator Decision Guide when the team needs to choose between background replacement, full product scene generation, local detail repair, or product truth QA.
-3. Use the Product Truth Scorecard before publishing. Every AI product visual should end in a publish, repair, or reject decision.
+3. Run the AI Product Photography Benchmark Template when the team needs evidence before comparing tools, replacing studio steps, or scaling generated product images.
+4. Use the Product Truth Scorecard before publishing. Every AI product visual should end in a publish, repair, or reject decision.
