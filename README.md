@@ -8,6 +8,8 @@ These resources are designed for ecommerce teams, creators, and developers who u
 
 - [AI Product Photography Product Truth Scorecard](./ai-product-photography-product-truth-scorecard.md)
 - [AI Image Prompt Framework Evidence Pack](./ai-image-prompt-framework-evidence-pack.md)
+- [Ecommerce AI Image Prompt Pack](https://visualskillkit.com/ai-image-prompt-examples)
+- [AI Product Image Generator Decision Guide](https://visualskillkit.com/ai-product-image-generator-workflow)
 
 ## Core Rule
 
@@ -32,4 +34,11 @@ It does not claim that one AI image generator is better than another. It is a wo
 
 - https://visualskillkit.com/ai-product-photography
 - https://visualskillkit.com/ai-image-prompt-examples
+- https://visualskillkit.com/ai-product-image-generator-workflow
+- https://visualskillkit.com/product-truth-scorecard
 
+## How These Assets Fit Together
+
+1. Start with the Ecommerce AI Image Prompt Pack when the team needs copy-ready prompts for product photos, backgrounds, ad variants, marketplace images, cutouts, or repair.
+2. Use the AI Product Image Generator Decision Guide when the team needs to choose between background replacement, full product scene generation, local detail repair, or product truth QA.
+3. Use the Product Truth Scorecard before publishing. Every AI product visual should end in a publish, repair, or reject decision.
